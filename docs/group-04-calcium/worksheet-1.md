@@ -10,12 +10,12 @@
 | -------------------------- | ------- |
 | **AASP: Automated Admission Slip Process** |         |
 | SIMBULAN           | 1. Group Leader      |
-| LACHICA                          | 2.       |
-| PEREZ                           | 3.      |
-| NOBLEZA                           | 4.      |
-| CORPIN                           | 5.      |
-| ATACADOR                          | 6.      |
-| **PSHS-DRC Area/Location**: Registrar |         |
+| LACHICA                          | 2. Analyze the problem       |
+| PEREZ                           | 3. Analyze the problem    |
+| NOBLEZA                           | 4. Observe the current process     |
+| CORPIN                           | 5. Propose a solution     |
+| ATACADOR                          | 6. Propose a solution      |
+| **PSHS-DRC Area/Location**: Registrar, Classroom |         |
 
 ---
 
