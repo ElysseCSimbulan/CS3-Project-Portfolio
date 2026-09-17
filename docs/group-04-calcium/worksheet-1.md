@@ -84,16 +84,16 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> *Our proposed system word help speed up the process of filing an admission slip by making it automated and process faster.*
 
 <br>
 
 ### 2. Who would use the system?
 
-| User/Role | Possible Use |
-| --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| User/Role |     Possible Use      |
+| --------- | --------------------- |
+| 1.Student | File an admission slip|
+|2.Personnel| Give and sign an admission slip|
 
 ### 3. What are the essential features?
 
