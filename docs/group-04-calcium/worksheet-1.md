@@ -15,7 +15,7 @@
 | NOBLEZA                           | 4. Observe the current process     |
 | CORPIN                           | 5. Propose a solution     |
 | ATACADOR                          | 6. Propose a solution      |
-| **PSHS-DRC Area/Location**: Registrar, Classroom |         |
+| **PSHS-DRC Area/Location**: |     Registrar, Classroom    |
 
 ---
 
