@@ -8,7 +8,7 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
+| **AASP: Automated Admission Slip Process** |         |
 | **Team Members**           | 1.      |
 |                            | 2.      |
 |                            | 3.      |
