@@ -103,4 +103,4 @@
 | ------- | ------- |
 | 1.   Approval   | A page where the personnel or teacher can approve or reject the admission (if incomplete)       |
 | 2.  Receipt    | It shows the student who filed that the submission was made. Same thing as when you answer a gform and it is emailed        |
-| 3.      |         |
+| 3.  Student Submission form    | For the student to input their name, grade and section, and reason for the slip to be made         |
