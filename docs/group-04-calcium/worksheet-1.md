@@ -9,13 +9,13 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **AASP: Automated Admission Slip Process** |         |
-| SIMBULAN           | 1.      |
-| LACHICA                          | 2.      |
+| SIMBULAN           | 1. Group Leader      |
+| LACHICA                          | 2.       |
 | PEREZ                           | 3.      |
 | NOBLEZA                           | 4.      |
 | CORPIN                           | 5.      |
 | ATACADOR                          | 6.      |
-| **PSHS-DRC Area/Location** |         |
+| **PSHS-DRC Area/Location**: Registrar |         |
 
 ---
 
