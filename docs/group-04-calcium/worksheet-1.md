@@ -84,7 +84,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Our proposed system word help speed up the process of filing an admission slip by making it automated and process faster.*
+> Our proposed system word help speed up the process of filing an admission slip by making it automated and process faster in order to avoid long lines.
 
 <br>
 
