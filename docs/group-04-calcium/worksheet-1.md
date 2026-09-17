@@ -68,13 +68,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> *We observed that the process takes too long. On busy mornings, the line at the registrar is too long which causes students to be late to class. When needing the signature of a concerned personnel, sometimes they are unavailable.*
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> *What could be improved is the efficiency of the process. It would be better if we created a time efficient and fast way to obtain the slip and collect signatures of concerned personnel. *
 
 <br>
 
