@@ -9,12 +9,12 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **AASP: Automated Admission Slip Process** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
+| SIMBULAN           | 1.      |
+| LACHICA                          | 2.      |
+| PEREZ                           | 3.      |
+| NOBLEZA                           | 4.      |
+| CORPIN                           | 5.      |
+| ATACADOR                          | 6.      |
 | **PSHS-DRC Area/Location** |         |
 
 ---
