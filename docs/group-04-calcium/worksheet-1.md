@@ -29,7 +29,7 @@
 
 ### 2. What is the purpose of this process?
 
-> This process is for recognition of your missing attendance and for a chance to excuse said absence. Submitting the admission slip ensures your class records are accurately updated so that eligible absences can be formally excused.
+> This process is for recognition of your missing attendance and for a chance to excuse said absence. Submitting the admission slip ensures your class records are accurately updated so that eligible absences can be formally excused. This also makes the admission slip process more efficient.
 
 <br>
 
