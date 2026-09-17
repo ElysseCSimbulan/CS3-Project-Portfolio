@@ -37,21 +37,31 @@
 
 **(Up to two roles only.)**
 
+### 3. Who are involved in the process?
+
+**(Up to two roles only.)**
+
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1.Personnel | Admission Slip Signing and    |
+|             | excusing                      |
+| 2.Student   | Will get the Admission Slip   |
+|             | Excused Admission Slip        |
+                                            
 
 ### 4. What are the steps in the current process?
 
-| Step | What happens? | Person/Role Involved |
-| ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| Step       | What happens?          | Person/Role Involved |
+| ---------- | ---------------------- | -------------------- |
+| 1 Filing   |Admission slip is given |      Personnel       |
+| 2 Signing  |Admission slip is signed|      Personnel       |
+| 3 QR Code  |Filling up the QR form  |       Student        |
+| 4 Subject  | Subject Teachers sign  |      Personnel       |
+|   signing  | The missing Subject    |                      |
+| 5 Adviser  | Adviser keeps the slip |      Personnel       |
+|   signing  | and sign it            |                      |
 
+---
 ---
 
 ## 3. Analyze the Problem
