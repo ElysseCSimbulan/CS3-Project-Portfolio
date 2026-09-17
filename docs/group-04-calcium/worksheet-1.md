@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> this is a sample answer. this is a sample answer. this is a sample answer.
+> The admission slip process. First, you go to the registrar and get your admission slip. Then the registrar will ask you for an excuse letter and/or a medical certificate. Afterwards, you will be asked to go HSU for a signature. Then you go to the registrar and let them sign your admission slip (excused or unexcused). And then you have to fill out a form that asks for personal information and your excuse. After that you will have to get your subject teachers to sign your missing attendances. And lastly, you must give the admission slip to your adviser for them to sign and keep.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> This process is for recognition of your missing attendance and for a chance to excuse said absence. Submitting the admission slip ensures your class records are accurately updated so that eligible absences can be formally excused.
 
 <br>
 
